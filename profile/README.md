@@ -4,5 +4,5 @@ Welcome to NaviSavi's personal space on GitHub where we love managing our code i
 
 * :earth_americas: The video-only community for digital nomads and wanderlust fans. [Find out more!](https://www.navisaviapp.com/)
 * :computer: A team of developers scattered all over the world, helping build an amazing travel community.
-* :video_camera: 195,000 of videos in over 180 countries - and we're not stopping there! [See more](https://www.navisaviapp.com/watch-demo)
+* :video_camera: 195,000+ videos in over 180 countries - and we're not stopping there! [See more](https://www.navisaviapp.com/watch-demo)
 * :writing_hand: Check out the blog for some top [travel tips](https://www.navisaviapp.com/blog)
